@@ -1,0 +1,6 @@
+{
+  "name": "The Baker's Corner",
+  "description": "Artisanal cake ordering e-commerce platform with custom cake designer, weight & flavor selections, doorstep delivery scheduling, and admin bakery management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
