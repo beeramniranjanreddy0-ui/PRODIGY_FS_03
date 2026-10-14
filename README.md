@@ -1,12 +1,5 @@
 # 🎂 The Baker's Corner — Boutique Artisanal Bakery
 
-[![React](https://img.shields.io/badge/React-19-blue?logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Express](https://img.shields.io/badge/Express-4.21-000000?logo=express&logoColor=white)](https://expressjs.com/)
-[![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
 > A modern, full-stack artisanal bakery & confectionery e-commerce application. Featuring bespoke custom cake designer, weight and flavor customizations, scheduled doorstep delivery (standard, express, midnight), live order tracking, and a comprehensive admin management portal.
 
 ---
