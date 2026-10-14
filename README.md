@@ -149,6 +149,4 @@ The Express backend provides clean REST endpoints under `/api`:
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
